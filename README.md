@@ -25,6 +25,6 @@ readata.py - This file printed out each player's name and the 9 data points asso
 
 readatapie.py - Utilizing matplotlib, this file generated the two pie graphs for driver brands and putter brands, respectively.
 
-readatabar.py - Also leveraging matplotlib, this file created the two bar graphs for driving distances and strokes gained putting.
+readatabar.py,readatabar2.py - Also leveraging matplotlib, these filse created three bar graphs for driving distances, driver brands leading in average distance, and strokes gained putting.
 
 Overall, the project provided valuable insights into the top 50 PGA Tour players' performance, equipment preferences, and crucial statistics that could be of interest to golf enthusiasts and analysts alike.
